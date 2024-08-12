@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405272537199",
+    "project_id": "cravings-ee530",
+    "storage_bucket": "cravings-ee530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405272537199:android:27ac2b7be256d2434c059a",
+        "android_client_info": {
+          "package_name": "com.example.cravings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArL--hhR_DGPNsF6BHa33agfKNFbdAjYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
