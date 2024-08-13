@@ -1,0 +1,11 @@
+const String android_key = "AIzaSyArL--hhR_DGPNsF6BHa33agfKNFbdAjYo";
+const String iOS_key = "AIzaSyBnz6dmcJB8uPcgJodbUHv29NuahqYDy-I";
+const String androidAppId = "1:405272537199:android:27ac2b7be256d2434c059a";
+const String iOSAppId = "1:405272537199:ios:05bb7809dcafd0334c059a";
+const String andoidMessageSenderId = "405272537199";
+const String iOSMessageSenderId = "405272537199";
+const String androidProjectId = 'cravings-ee530';
+const String andoidStorageBucket = 'cravings-ee530.appspot.com';
+const String iOSProjectId = 'cravings-ee530';
+const String iOSStorageBucket = 'cravings-ee530.appspot.com';
+const String iOSBundleId = 'com.example.cravings';

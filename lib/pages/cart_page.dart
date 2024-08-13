@@ -66,7 +66,7 @@ class CartPage extends StatelessWidget {
           ],
         ),
         body: Padding(
-          padding: const EdgeInsets.all(8.0),
+          padding: const EdgeInsets.fromLTRB(0, 0, 0, 20),
           child: Column(
             children: [
               // List of Cart
@@ -84,7 +84,7 @@ class CartPage extends StatelessWidget {
                         : Expanded(
                             child: ListView.builder(
                                 shrinkWrap: true,
-                                physics: const NeverScrollableScrollPhysics(),
+                                padding: EdgeInsets.only(bottom: 10),
                                 itemCount: userCart.length,
                                 itemBuilder: (context, index) {
                                   // get individual cart item

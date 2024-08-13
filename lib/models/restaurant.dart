@@ -497,7 +497,7 @@ class Restaurant extends ChangeNotifier {
     reciept.writeln("Total Items: ${getTotalItemsInCart()}");
     reciept.writeln("Total Price: ${_formatPrice((getTotalPrice()))}");
     reciept.writeln();
-    reciept.writeln("delivering to: $deliveryAddress");
+    reciept.writeln("Delivering to: $deliveryAddress");
     return reciept.toString();
   }
 
