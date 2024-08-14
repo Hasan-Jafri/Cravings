@@ -1,5 +1,3 @@
-![ic_launcher](https://github.com/user-attachments/assets/d60524a4-a6b3-48fb-9d56-06d409b37653)
-
 Waiting in line for order?
 No need as Cravings has entered the market with efficient Order handling while you just sit back and relax at home. Cravings is Food Delivery Application that handles your orders and deliver them at your location.
 Whether it Desi, Fast Food or just some regular Orange Juice, Cravings has got your back.
